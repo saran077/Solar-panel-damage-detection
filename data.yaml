@@ -1,0 +1,12 @@
+path: /content/drive/MyDrive/Solar/datasets/SolarPanelDamage-Classification-19
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: Bird Drop
+  1: Defective
+  2: Dusty
+  3: Electrical Damage
+  4: Non Defective
+  5: Physical Damage
+  6: Snow
